@@ -1,12 +1,12 @@
-# Welcome to my Pokédex
+# Basic Tutorial to Consume RestAPI 
 ![Welcome](https://raw.githubusercontent.com/ryxandy/RestConsuming/master/rest.png)
 #                                                                        Tour into this application 
-###                                                             Objetivo, Tecnologias, Documentações, exemplos de uso.
+###                                                             Overview, Technologies, Response Example.
 
 
 
 #### ✏️ Overview:
-###### This a  Java api rest created to register and consulte Pokemons, its like a Pokedéx where u can: Create, Delete, Update and Get Pokemons.
+###### This is a Java project made to consuming an APi called "ViaCep" and return the data to the user
 
 
 
@@ -14,18 +14,12 @@
 
 #### Java 11
 #### Spring boot
-#### JPA / Hibernate
-#### MySQL
-#### Swagger
+#### Spring Cloud
 #### Maven
-#### Heroku
 
 
-## Basic EndPoint: https://pokeapi-br.herokuapp.com/swagger-ui.html#/
 
-## Possible EndPoints:
-![EndPoints](https://github.com/ryxandy/pokeapi/blob/main/endpoints.PNG)
-
+## Basic EndPoint: http://localhost:8080/{CEP}   SideNote: Its a PathVariable, so u can tap your own CEP
 
 ## Response example:
 ![Json](https://github.com/ryxandy/pokeapi/blob/main/estruturapost.PNG)
