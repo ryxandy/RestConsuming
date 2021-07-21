@@ -10,7 +10,7 @@
 
 
 
-#                 💻 Technologies:
+#     💻 Technologies:
 
 #### Java 11
 #### Spring boot
@@ -22,8 +22,8 @@
 ## Basic EndPoint: http://localhost:8080/{CEP}   SideNote: Its a PathVariable, so u can tap your own CEP
 
 ## Response example:
-![Json](https://github.com/ryxandy/pokeapi/blob/main/estruturapost.PNG)
+![Json](https://raw.githubusercontent.com/ryxandy/RestConsuming/master/Example.PNG)
 
 # Conclusions
-### I learned a lot from this project, it was developed in just one day and I was able to put into practice important concepts for my career
+### I learned how to consume API's using Spring Cloud
 
