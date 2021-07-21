@@ -17,7 +17,9 @@
 #### Spring Cloud
 #### Maven
 
-
+#     💻 POM:
+## Dependencies Needed:
+![Json](https://raw.githubusercontent.com/ryxandy/RestConsuming/master/pom.PNG)
 
 ## Basic EndPoint: http://localhost:8080/{CEP}   SideNote: Its a PathVariable, so u can tap your own CEP
 
