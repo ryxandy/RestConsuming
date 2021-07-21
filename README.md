@@ -1,5 +1,5 @@
 # Welcome to my Pokédex
-![Welcome](https://github.com/ryxandy/RestConsuming/master/rest.png)
+![Welcome](https://raw.githubusercontent.com/ryxandy/RestConsuming/master/rest.png)
 #                                                                        Tour into this application 
 ###                                                             Objetivo, Tecnologias, Documentações, exemplos de uso.
 
