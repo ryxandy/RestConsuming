@@ -14,7 +14,7 @@ public class CepRestService {
 
     @GetMapping(path = "/{cep}")
     public ResponseEntity<Endereco> getCep(@PathVariable String cep){
-        System.out.println("CEP successfully consulted");
+        System.out.println("CEP successfully consulted ");
         Endereco endereco = cepService.buscarEnderecoPorCep(cep);
         return endereco != null? ResponseEntity.ok().body(endereco) : ResponseEntity.notFound().build();
     }
